@@ -1,8 +1,8 @@
-<center>
+<div align="center">
     <img src="art/logo.png" width="120" style="border-radius: 1000px">
-    
+
 # Telegram Bot Email Notification
-</center>
+</div>
 
 
 This is a simple script for sending notification email into a telegram using bot. I create this script using PHP language and IMAP extension.
@@ -31,4 +31,4 @@ Running the script :
 
 Screenshots :
 
-![](art/20241006_220437.jpg)
+<img src="art/20241006_220437.jpg" width="400">
